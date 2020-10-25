@@ -9,7 +9,7 @@ public class XO {
     private static final char USER = 'X';
     private static final char PC = 'O';
     private static final char DEFAULT = '_';
-
+//test
     static void fillMap(int size) {
         isInGame = true;
         MAP = new char[size][size];
